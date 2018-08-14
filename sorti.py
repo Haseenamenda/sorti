@@ -1,3 +1,4 @@
+n=int(raw_input())
 list=[int(x) for x in raw_input().split()]
-li source code   st.sort()
-print " ".join(map(str,list))n=int(raw_input())
+list.sort()
+print " ".join(map(str,list))
